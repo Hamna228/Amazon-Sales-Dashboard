@@ -66,32 +66,7 @@ This project is a **three-page interactive Amazon Sales Dashboard** built in **P
 
 ## 📁 Screenshots
 
-![Page 1](https://github.com/Hamna228/Netflix-Dashboard/blob/main/1.png)  
-![Page 2](https://github.com/Hamna228/Netflix-Dashboard/blob/main/2.png)  
-![Page 3](https://github.com/Hamna228/Netflix-Dashboard/blob/main/3.png)  
+![Page 1](https://github.com/Hamna228/Amazon-Sales-Dashboard/blob/main/1.PNG)  
+![Page 2](https://github.com/Hamna228/Amazon-Sales-Dashboard/blob/main/2.PNG)  
+![Page 3](https://github.com/Hamna228/Amazon-Sales-Dashboard/blob/main/3.PNG)  
 
----
-
-## 📈 Outcome
-
-A fully functional **three-page interactive dashboard** that allows users to:
-
-- 📦 Monitor Amazon product performance  
-- 💰 Analyze pricing and discount strategies  
-- 🌟 Understand customer sentiment and ratings  
-- 📊 Make **data-driven decisions** with clarity  
-
----
-
-## 🔗 Usage Instructions
-
-1. 🖥 Open the `.pbix` file in **Power BI Desktop**.  
-2. 🔍 Use the **slicers/filters** to explore data across categories, price ranges, ratings, and reviews.  
-3. 🖱 Hover over visuals for tooltips and additional insights.  
-4. 📈 Drill down into charts for **product-level and category-level insights**.  
-
----
-
-## 📌 Tags
-
-#PowerBI #DataAnalytics #AmazonDashboard #BusinessIntelligence #EcommerceAnalytics #DataVisualization #CustomerInsights #DataDriven
